@@ -10,8 +10,7 @@ I am a Front-end Developer
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mahdiitaheri&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahdiitaheri&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiitaheri&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiitaheri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🏆 GitHub Trophies
