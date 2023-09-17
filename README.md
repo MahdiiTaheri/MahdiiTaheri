@@ -13,7 +13,6 @@ I am a Front-end Developer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiitaheri&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-[![](https://visitcount.itsvg.in/api?id=mahdiitaheri&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mahdiitaheri&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
