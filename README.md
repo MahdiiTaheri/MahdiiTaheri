@@ -12,7 +12,6 @@ I am a Front-end Developer
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahdiitaheri&theme=react&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiitaheri&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [![](https://visitcount.itsvg.in/api?id=mahdiitaheri&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
