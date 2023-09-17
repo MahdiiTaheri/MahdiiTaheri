@@ -13,8 +13,7 @@ I am a Front-end Developer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiitaheri&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mahdiitaheri&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mahdiitaheri&icon=0&color=1)](https://visitcount.itsvg.in)
