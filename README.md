@@ -17,6 +17,6 @@ I am a Front-end Developer
 
 ---
 
-![Profile views](https://gpvc.arturio.dev/[mahdiitaheri])
+![Profile views](https://gpvc.arturio.dev/[mahdi])
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
