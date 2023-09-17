@@ -16,7 +16,7 @@ I am a Front-end Developer
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mahdiitaheri&icon=0&color=1)](https://visitcount.itsvg.in)
+
 ![Profile views](https://gpvc.arturio.dev/[mahdiitaheri])
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
